@@ -1,11 +1,10 @@
 ### Hi there, I'm Abhishek 👋
 
-##I'm a Happy Coder and i love to learn new tech.
+## I'm a Happy Coder and i love to learn new tech.
 
 <!--
 **ckabhi/ckabhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. ->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MERN and LAMP Stack
 <!--- 🌱 I’m currently learning ...
