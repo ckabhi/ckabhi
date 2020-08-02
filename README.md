@@ -23,6 +23,6 @@
 [<img align="left" alt="Abhishek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: #
-[twitter]: https://twitter.com/ckabhi
+[twitter]: https://twitter.com/ckabhi96
 [linkedin]: https://linkedin.com/in/ckabhi
 [instagram]: https://instagram.com/ckabhi96
