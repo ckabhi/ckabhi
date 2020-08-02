@@ -13,4 +13,4 @@
 - 💬 Ask me about ... -->
 - 📫 How to reach me: ...
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I like spend quality time 😄😄
+- ⚡ Fun fact: I like to spend quality time 😄😄
