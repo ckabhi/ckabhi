@@ -6,8 +6,8 @@
 **ckabhi/ckabhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m currently working on MERN and LAMP Stack
-- 🌱 I’m currently learning Micro-services
+- 🔭 I’m a Senior Software Engineer
+- 🌱 I’m currently learning AI
 - ⚡ Fun fact: I like to spend quality time.. 😄😄
 <!-- - 👯 2020 Goal: 
 - 🤔 I’m looking for help with ...
